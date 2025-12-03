@@ -82,6 +82,4 @@ Clean folder structure and easy-to-extend backend design
 
 👨‍💻 Author
 Dhruv
-Dhruv
-
-🖼️ Examp
+B-Tech Computer Engineering | PDEU
